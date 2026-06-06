@@ -1,0 +1,5 @@
+Name=Konata Izumi
+Image= Konata.BMP
+Voice Actor: Aya Hirano, Wendee Lee
+Use Language: Japanese, English
+Series=Lucky Star, Anime
