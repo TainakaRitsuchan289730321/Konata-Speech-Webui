@@ -1,0 +1,1 @@
+If the Pizza connects completely, a debuff effect will be applied.
